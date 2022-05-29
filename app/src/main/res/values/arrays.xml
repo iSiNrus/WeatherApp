@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerItems">
+        <item>Город1</item>
+        <item>Город2</item>
+        <item>Город3</item>
+        <item>Город4</item>
+    </string-array>
+</resources>
